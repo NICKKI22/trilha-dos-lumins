@@ -15,7 +15,7 @@ Abra `index.html` em um navegador moderno. Não é necessário instalar nada.
 - **Ginásios:** cada líder usa uma equipe e uma habilidade especial. A vitória concede uma insígnia e um novo companheiro.
 - **Escolhas da história:** cada região oferece duas formas de agir, com pistas e recompensas diferentes.
 - **Níveis:** batalhas e ações gentis dão experiência. Ao subir de nível, seu companheiro ganha força e energia máxima.
-- **Exploração:** mova-se com WASD, as setas ou o direcional na tela; encontre frutas nas áreas.
+- **Exploração:** mova-se com WASD, as setas ou o direcional na tela; digite no ranking sem mover o personagem. Encontre as pontes quebradas e aproxime-se para consertá-las com **E** ou pelo botão na tela antes de atravessar.
 - **Visual:** alterne entre o mapa 2D visto de cima e a versão 3D low-poly pelo seletor no canto da cena.
 
 O modo 2D é o padrão: mapa de cima, protagonista em pixel art e arenas de ginásio com apresentação inspirada nos RPGs portáteis da era Nintendo DS, como SoulSilver e Black Version. O modo 3D low-poly continua disponível como alternativa e usa WebGL nativo. Personagens, criaturas e cenários são originais; a referência é apenas estética.
